@@ -1,0 +1,29 @@
+@font-face {font-family: 'IcoMoon-free'; src: url('fonts/IcoMoon-free.ttf');}
+.doar-link a {position:absolute;top:14px;right:14px;background:rgba(255,255,255,.1);padding:10px 40px 10px 10px;border-radius:0px;border:2px solid transparent; font-weight: 500;}
+.doar-link a:hover {border:2px solid rgba(255,255,255,.1)}
+.doar-link a:after {font-family:IcoMoon-free;content:"\e93b";position:absolute;right:12px;bottom:9px;font-size:18px}
+.doar-link a {text-decoration:none;color:#fff}
+.whats-title h1 {font-size:26px;padding:26px 12px 26px 64px;color:#fff;background:#075E54;font-weight:400;border-radius:3px 3px 0 0}
+.whats-title h1:before{display:block;content:"";position:absolute}
+.whats-title h1:before{font-family:IcoMoon-free;content:"\ea93"; color:#fff;left:28px;}
+.whats-page h2.nav-tab-wrapper{background:#128C7E; margin-top:-18px; padding: 20px 12px 20px 30px; color: #fff;}
+.nav-tab {margin-left: 0; margin-right: 20px; color: #fff; background: transparent; border: 0;}
+.whats-page{position:relative;display:block;background:#fff;width:100%;max-width:none;margin-top:0;margin-left:-10px; min-width:300px;}
+@media (max-width:782px){.whats-page{margin-left:0; max-width:calc(100% - 10px);}}
+.page-container{padding:12px; background: #fff;}
+.div-whats {border: 1px solid #dedede; display: block; min-height: 104px; position: relative; padding: 30px 18px 18px; background: #fff; margin-bottom: 12px;}
+.div-whats h3 {font-size: 20px; margin-top: 12px;}
+.div-whats p {font-size: 13px; line-height: 1.5; margin: 1em 0;}
+.image-container-whats {border: 0px; height: 90px; position: absolute; width: 120px;}
+.image-container-whats img{height:100%;object-fit:cover;width:100%}
+.title-area-whats {margin-left: 140px; margin-right: 130px;}
+.title-area-whats .codewa {background: #20B038; color: #fff; padding: 2px 4px; border-radius: 3px;}
+.codewa a {color:#fff;}
+@media (max-width:480px){.title-area-whats{margin-left:0!important;margin-right:0!important;margin-top:120px}}
+.onoffswitch-whats {position: absolute; right: 30px; top: 40px;}
+.onoffswitch-whats input[type=checkbox] {background: #dedede; box-shadow: none; border: none; width: 70px!important; height: 40px; border-radius: 3px; position: relative; transition:.4s ease left!important; margin: -4px 4px 0 0; width: 16px; min-width: 16px; -webkit-appearance: none;}
+.onoffswitch-whats input[type=checkbox]:before {position: absolute; display: block; left: 4px; top: 4px; content: ''; margin: 0; width: 32px; height: 32px; background: #fff; border-radius: 2px; transition: .4s ease left;}
+.onoffswitch-whats input[type=checkbox]:checked{background:#25D366}
+.onoffswitch-whats input[type=checkbox]:checked:before{left:34px}
+.button.submit-whats {background: #25D366; padding:15px 20px 40px 20px;border-radius:0px;border:2px solid #25D366; font-weight: 500; color: #fff; text-decoration: none; text-shadow: none; box-shadow: none; font-size: 14px; text-transform: uppercase;}
+.button.submit-whats:hover {background: #128C7E; border-color: #128C7E ; letter-spacing: 2px;}

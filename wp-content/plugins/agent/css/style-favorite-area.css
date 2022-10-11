@@ -1,0 +1,12 @@
+.notify-fav{display: none}
+.field-cp,.ui-sortable li{margin-bottom:10px}
+.custom-field-post{margin-top:50px}
+.field-cp label{width:95px;display:inline-block;font-size:14px;font-weight:600}
+.field-cp select{min-width:200px}
+#add-favorite{margin-top:20px}
+.list-favorite{width: 250px;max-width:90%;}
+.ui-sortable li .item-favorite-area{border:1px solid #afafaf;height:32px;border-radius:4px;line-height:32px;text-align:center;background:#f1f1f1;font-size:12px;position: relative;}
+.ui-sortable li{cursor:all-scroll}
+.form-list-favorite{margin-top: 65px;}
+input.button-primary {width: 100px;margin-top: 10px !important; display: table;}
+.delete-fav-area {position: absolute; right: 9px; top: 9px; width: 11px; height: 13px;background: url('close-purple.png') no-repeat;background-size: 9px;cursor: pointer;border: none}

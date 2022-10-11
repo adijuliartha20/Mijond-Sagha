@@ -1,0 +1,238 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Whatsapp chat wp\n"
+"POT-Creation-Date: 2018-06-24 14:11-0300\n"
+"PO-Revision-Date: 2018-06-23 19:32-0300\n"
+"Last-Translator: \n"
+"Language-Team: Caporal Mkt Digital <agencia@caporalmktdigital.com.br>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: trunk/whatsapp-chat.php:35
+msgid "Like it? Consider a Donation!"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:38
+msgid "Customize your button"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:39
+msgid "Support"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:40
+msgid "Review"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:41 trunk/whatsapp-chat.php:296
+msgid "Shortcode"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:42
+msgid "Developer"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:55
+msgid "WhatsApp Phone Number"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:56
+msgid "Full phone number in international format. Example:"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:56
+msgid "+155523456789"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:67
+msgid "Message to start chat"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:68
+msgid ""
+"Pre-filled message that will automatically appear in the text field of a "
+"chat. Example:"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:69
+msgid "Hello! I am interested in your service"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:80
+msgid "Edit button"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:81
+msgid "Customize your whatsapp chat message. Example:"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:81
+msgid "Chat with me"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:92
+msgid "Hide button"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:93
+msgid "Turn on to"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:93
+msgid "hide whatsapp chat"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:93
+msgid "for all website."
+msgstr ""
+
+#: trunk/whatsapp-chat.php:108
+msgid "Left Side"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:109 trunk/whatsapp-chat.php:126
+msgid "Turn on the switch to move whatsapp chat to the"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:109
+msgid "left side of the screen"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:125
+msgid "Bottom"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:126
+msgid "bottom of the screen"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:127
+msgid "If left side is ON than whatsapp chat will be"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:127
+msgid "on the bottom left."
+msgstr ""
+
+#: trunk/whatsapp-chat.php:143
+msgid "Hide on Desktop"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:144
+msgid "Turn on to keep visible for"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:144
+msgid "mobile only."
+msgstr ""
+
+#: trunk/whatsapp-chat.php:160
+msgid "Teal Green."
+msgstr ""
+
+#: trunk/whatsapp-chat.php:161
+msgid "Make whatsapp chat dark with color"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:161
+msgid "Teal Green"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:177
+msgid "White"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:178
+msgid "Make whatsapp chat light with color"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:178
+msgid "white."
+msgstr ""
+
+#: trunk/whatsapp-chat.php:194
+msgid "Rounded border"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:195
+msgid "Add rounnded border"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:195
+msgid "in whatsapp chat."
+msgstr ""
+
+#: trunk/whatsapp-chat.php:211
+msgid "Hide in pages"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:212 trunk/whatsapp-chat.php:229
+#: trunk/whatsapp-chat.php:246 trunk/whatsapp-chat.php:263
+msgid "Hide WhatsApp Chat in every"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:212
+msgid "page"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:228
+msgid "Hide in post"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:229
+msgid "post page"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:245
+msgid "Hide in project"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:246
+msgid "project page"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:262
+msgid "Hide in product"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:263
+msgid "product page"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:279
+msgid "Discreet link"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:280
+msgid "Leave a discreet link to developer to"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:280
+msgid "help and keep new updates and support"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:297
+msgid "You can use shortcode to create WhatsApp Chat buttons wherever you want"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:298
+msgid ""
+"Just copy the shortcode bellow replacing with your phone number and text."
+msgstr ""
+
+#: trunk/whatsapp-chat.php:299
+msgid "Chat on WhatsApp"
+msgstr ""
+
+#: trunk/whatsapp-chat.php:315
+msgid "Save & Chat"
+msgstr ""

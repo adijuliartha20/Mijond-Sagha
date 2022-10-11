@@ -1,0 +1,4 @@
+
+[05-Jul-2020 23:04:47 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/mijondsa/public_html/wp-content/plugins/hello.php on line 60
+[28-Nov-2020 20:25:51 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/mijondsa/public_html/wp-content/plugins/hello.php on line 60
+[28-Nov-2020 20:25:51 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/mijondsa/public_html/wp-content/plugins/hello.php on line 60
