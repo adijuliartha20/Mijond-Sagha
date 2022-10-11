@@ -1,0 +1,1 @@
+<div class="slide-default flower-section clearfix"> <h1><?php echo $title; ?></h1></div>

@@ -1,0 +1,10 @@
+[25-Sep-2020 18:35:39 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/mijondsa/public_html/wp-includes/functions.php on line 8
+[25-Sep-2020 18:35:39 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/mijondsa/public_html/wp-includes/functions.php on line 8
+[25-Sep-2020 18:35:39 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/mijondsa/public_html/wp-includes/functions.php on line 8
+[25-Sep-2020 18:35:39 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/mijondsa/public_html/wp-includes/functions.php on line 8
+[25-Sep-2020 18:35:39 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/mijondsa/public_html/wp-includes/functions.php on line 8
+[22-Oct-2020 16:07:27 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/mijondsa/public_html/wp-includes/functions.php on line 8
+[22-Oct-2020 16:07:27 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/mijondsa/public_html/wp-includes/functions.php on line 8
+[22-Oct-2020 16:07:27 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/mijondsa/public_html/wp-includes/functions.php on line 8
+[22-Oct-2020 16:07:27 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/mijondsa/public_html/wp-includes/functions.php on line 8
+[22-Oct-2020 16:07:27 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/mijondsa/public_html/wp-includes/functions.php on line 8
